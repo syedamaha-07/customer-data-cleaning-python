@@ -1,5 +1,4 @@
-# customer-data-cleaning-python
-Customer dataset cleaning using Python and Pandas.
+
 # Customer Data Cleaning Project
 
 ## Overview
@@ -20,5 +19,4 @@ Cleaned a large customer dataset (~99k records) using Python and Pandas.
 ## Outcome
 Prepared a structured dataset ready for further analysis and visualization.
 
-## Note
-This project was created for learning and portfolio demonstration purposes.
+
